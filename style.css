@@ -1,0 +1,19 @@
+@charset "UTF-8"
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+</style>
+
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: aqua;
+}
+
+
+/* Paleta de cores
+#056CF2
+#0A2C59
+#041326
+#0583F2
+#F2F2F2
+*/
