@@ -3,6 +3,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 
+
+
 body{
     font-family: 'Open Sans', sans-serif;
     background-color: #F2F2F2;
@@ -11,6 +13,7 @@ h1{
     /*background-color: #0583F2;*/
     color:#0A2C59;
     text-align: center;
+    padding: 270px 10px 10px 10px;
 
 }
 h2{
@@ -20,4 +23,12 @@ h2{
 h3{
     color: #0583F2;
     text-align: justify;
+}
+header{
+    height: 100vh;
+    background-image: url("imagens/graphic-1280x853-30%.png");
+    background-position: bottom;
+    background-size: cover;
+    paddin
+    
 }
