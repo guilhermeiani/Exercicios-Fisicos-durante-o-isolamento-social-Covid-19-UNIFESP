@@ -11,7 +11,7 @@ body{
 }
 h1#primeiro{
     /*background-color: #0583F2;*/
-    color:#0A2C59;
+    color: #041326;
     text-align: center;
     padding: 148px 10px 10px 10px;
     font-size: 45px;
@@ -35,7 +35,8 @@ header{
     background-position:center;
     background-size:auto;
     padding: 10px 10px 224px 10px;
-    background-attachment: fixed; 
+    background-attachment: fixed;
+    
 }
 
 
@@ -57,3 +58,29 @@ header{
     }
 }
 
+nav#menu ul{
+    padding: 10px 10px 10px 10px;
+    margin: 0%;
+    list-style: none;
+    background-color:#0A2C59 ;
+    box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.829);
+}
+nav#menu ul li{
+    display: inline;
+
+}
+
+nav#menu ul li a{
+    display: inline-block;
+    padding: 5px 5px 5px 5px;
+    background-color: #0583F2;
+    color:#041326;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 700;
+}
+nav#menu ul li a:hover{
+    background-color: #F2F2F2;
+    color:#041326 ;
+    
+}
